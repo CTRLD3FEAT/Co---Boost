@@ -1,0 +1,8 @@
+streamlit==1.66.1
+pandas==2.3.3
+numpy==2.4.6
+plotly==7.1.0
+scikit-learn==1.9.1
+pdfplumber==0.11.10
+dash==4.4.1
+joblib==1.5.3
