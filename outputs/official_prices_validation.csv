@@ -1,0 +1,7 @@
+check,passed,evidence
+canonical_columns,True,schema matches canonical contract
+non_empty,True,128 rows extracted
+positive_prices,True,all extracted prices are positive
+valid_sources,True,only expected sources present
+review_provenance,True,all rows require visual review
+source_rows,True,"[{'source': 'DCS', 'rows_extracted': 128, 'rows_expected_minimum': 50}]"
