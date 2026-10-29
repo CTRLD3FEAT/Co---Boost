@@ -20,3 +20,4 @@ nohup.out
 
 # User-provided external datasets (kept local, not part of repo phases)
 Dataset/open-meteo.csv
+Dataset/price_report_*.pdf

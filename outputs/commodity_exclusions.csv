@@ -1,0 +1,7 @@
+pattern,reason,source,approved_by,applied_to
+Betel Leav*,Non-food commodity: chewed stimulant (betel-vine leaf), not a food consumable; \
+excluded from all Co-Boost food-price analytics,Dataset/DCS-WRP-*.pdf official DCS reports,TEAM_NRZB,loader (baseline.load_prices)
+Arecanut*,Non-food commodity: chewed stimulant (areca nut), not a food consumable; \
+excluded from all Co-Boost food-price analytics,Dataset/DCS-WRP-*.pdf official DCS reports,TEAM_NRZB,loader (baseline.load_prices)
+Salt 1Kg.Pkt.*,Corrupted extraction row: price '60.00' glued into the commodity name, \
+while a clean weekly 'Salt' series already exists in the same reports,DCS-WRP-2021-10-W3.pdf,TEAM_NRZB,loader (baseline.load_prices)
